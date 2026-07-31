@@ -57,8 +57,8 @@ Always shipping, always learning, always curious about what's next.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Noia-kun&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noia-kun&layout=compact&theme=radical" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Noia-kun&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Noia-kun&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
