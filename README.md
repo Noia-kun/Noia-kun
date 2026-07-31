@@ -62,7 +62,7 @@ Always shipping, always learning, always curious about what's next.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noia-kun&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noia-kun&theme=radical" />
 </p>
 
 <p align="center">
