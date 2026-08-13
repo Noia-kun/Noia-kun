@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I am NoiA 👋</h1>
-<h3 align="center">Software/Web Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=61DAFB&center=true&vCenter=true&width=435&lines=Software+Developer;Web+Developer;PHP+Developer;Laravel+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=FF2D20&center=true&vCenter=true&width=435&lines=React+Developer;Front-End+Developer;Back-End+Developer;Full-Stack+Developer" />
+</p>
 
 <p align="center">
 I turn messy problems into clean, working code — and I'm just getting started.<br/>
