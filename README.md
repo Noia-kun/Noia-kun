@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I am NoiA 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=61DAFB&center=true&vCenter=true&width=435&lines=Software+Developer;Web+Developer;PHP+Developer;Laravel+Developer" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=FF2D20&center=true&vCenter=true&width=435&lines=React+Developer;Front-End+Developer;Back-End+Developer;Full-Stack+Developer" />
+  <img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%20%22Software%20Developer%22%2C%20%22font%22%3A%20%22Press%20Start%202P%22%7D%2C%20%7B%22text%22%3A%20%22Web%20Developer%22%2C%20%22font%22%3A%20%22Press%20Start%202P%22%7D%2C%20%7B%22text%22%3A%20%22PHP%20Developer%22%2C%20%22font%22%3A%20%22Press%20Start%202P%22%7D%2C%20%7B%22text%22%3A%20%22Laravel%20Developer%22%2C%20%22font%22%3A%20%22Press%20Start%202P%22%7D%5D&color=61DAFB&width=500&height=40&center=true&vCenter=true" />
+  <img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%20%22React%20Developer%22%2C%20%22font%22%3A%20%22Press%20Start%202P%22%7D%2C%20%7B%22text%22%3A%20%22Front-End%20Developer%22%2C%20%22font%22%3A%20%22Press%20Start%202P%22%7D%2C%20%7B%22text%22%3A%20%22Back-End%20Developer%22%2C%20%22font%22%3A%20%22Press%20Start%202P%22%7D%2C%20%7B%22text%22%3A%20%22Full-Stack%20Developer%22%2C%20%22font%22%3A%20%22Press%20Start%202P%22%7D%5D&color=FF2D20&width=500&height=40&center=true&vCenter=true" />
 </p>
 
 <p align="center">
